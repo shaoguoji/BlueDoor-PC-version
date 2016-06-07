@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2015\Projects\BlueDoor\BlueDoor\bin\Debug\BlueDoor.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\BlueDoor\BlueDoor\bin\Debug\BlueDoor.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BlueDoor\BlueDoor\bin\Debug\BlueDoor.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\BlueDoor\BlueDoor\obj\Debug\BlueDoor.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\BlueDoor\BlueDoor\obj\Debug\BlueDoor.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\BlueDoor\BlueDoor\obj\Debug\BlueDoor.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\BlueDoor\BlueDoor\obj\Debug\BlueDoor.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BlueDoor\BlueDoor\obj\Debug\BlueDoor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BlueDoor\BlueDoor\obj\Debug\BlueDoor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\BlueDoor-PC-version\BlueDoor\bin\Debug\BlueDoor.exe.config
+C:\Users\Administrator\Documents\GitHub\BlueDoor-PC-version\BlueDoor\obj\Debug\BlueDoor.exe
+C:\Users\Administrator\Documents\GitHub\BlueDoor-PC-version\BlueDoor\obj\Debug\BlueDoor.pdb
+C:\Users\Administrator\Documents\GitHub\BlueDoor-PC-version\BlueDoor\bin\Debug\BlueDoor.exe
+C:\Users\Administrator\Documents\GitHub\BlueDoor-PC-version\BlueDoor\bin\Debug\BlueDoor.pdb
+C:\Users\Administrator\Documents\GitHub\BlueDoor-PC-version\BlueDoor\obj\Debug\BlueDoor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\BlueDoor-PC-version\BlueDoor\obj\Debug\BlueDoor.Form1.resources
+C:\Users\Administrator\Documents\GitHub\BlueDoor-PC-version\BlueDoor\obj\Debug\BlueDoor.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\BlueDoor-PC-version\BlueDoor\obj\Debug\BlueDoor.csproj.GenerateResource.Cache
